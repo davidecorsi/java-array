@@ -12,7 +12,7 @@ public class Main {
 		}
 		
 		// Utilizzando il for each
-		for(int i: n1) {
+		for(int i: n) {
 			System.out.println(i);
 		}
 	}
