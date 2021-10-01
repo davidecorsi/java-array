@@ -1,3 +1,4 @@
+import java.util.Random;
 
 public class Main {
 	public static void main(String[] args) {
@@ -15,5 +16,7 @@ public class Main {
 		for(int i: n) {
 			System.out.println(i);
 		}
+		
+		// creazione applicazione incasso giornaliero
 	}
 }
